@@ -1,6 +1,6 @@
-# 🎯 Pre-Delinquency Risk Engine
+# Pre-Delinquency Intervention Engine
 
-An intelligent early warning system that predicts and prevents customer delinquency through real-time financial stress detection and automated intervention recommendations.
+AI-powered early warning system that predicts customer delinquency risk, detects financial stress signals, and recommends proactive interventions through a FastAPI backend and React dashboard.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -107,8 +107,8 @@ The Pre-Delinquency Risk Engine is a proactive financial risk management system 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Shaunak-8/HEISENBUGS_VITPUNE-_170226.git
-   cd HEISENBUGS_VITPUNE-_170226
+   git clone https://github.com/Shaunak-8/pre-delinquency-intervention-engine.git
+   cd pre-delinquency-intervention-engine
    ```
 
 2. **Create a virtual environment**
